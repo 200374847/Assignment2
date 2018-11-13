@@ -8,4 +8,4 @@ Nick Grocery Store Part 1
     In my project admin can see every tables and play with the stuff but not the users.
     my github link - https://github.com/200374847/Assignment2
     
-    my azure link - 
+    my azure link - https://nick1.azurewebsites.net
