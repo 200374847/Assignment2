@@ -6,5 +6,6 @@ Nick Grocery Store Part 1
     This project has authenticated and authorization security for app protection.
     This project has google authentication and also social microsoft authentication.
     In my project admin can see every tables and play with the stuff but not the users.
-    my github link - 
+    my github link - https://github.com/200374847/Assignment2
+    
     my azure link - 
